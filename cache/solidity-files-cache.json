@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "F:\\Hardhat_Tutorial\\contracts\\NumberStorage.sol": {
+      "lastModificationDate": 1676314305767,
+      "contentHash": "f10e6559c5855109a7b43ed6cfe4139a",
+      "sourceName": "contracts/NumberStorage.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "NumberStorage"
+      ]
+    }
+  }
+}
